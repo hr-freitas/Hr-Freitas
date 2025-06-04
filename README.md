@@ -1,16 +1,68 @@
-## Hi there 👋
+## Hallo, I´m Paulo, a Computer Systems Analysis student. Passionate about technology, web development and creative solutions.👋
 
-<!--
-**hr-freitas/Hr-Freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Operating System Implementation
+- 🌱 I’m currently learning CSS, JavaScript, Html and Python
+- 👯 I’m looking to collaborate on open-source projects, system optimisation, and web development
+- 🤝 I’m open to networking and knowledge sharing with fellow developers
+- 💡 Always eager to learn and explore new technologies
+</a>
 
-Here are some ideas to get you started:
+<div>
+    <a href="mailto:noemail@noemail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=hr-freitas&show_icons=true&theme=github_dark"media="(prefers-color-scheme: dark)"/>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+</div>
+
+##
+
+ ### 🤖 Languages and Technologies
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<div>
+</div>
+
+<br/>
+<br/>
+
+</div>
