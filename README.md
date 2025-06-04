@@ -8,12 +8,6 @@
 </a>
 
 <div>
-    <a href="mailto:noemail@noemail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-</div>
-
-<div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=hr-freitas&show_icons=true&theme=github_dark"media="(prefers-color-scheme: dark)"/>
