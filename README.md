@@ -1,6 +1,6 @@
 ## Hallo, I´m Paulo, a Computer Systems Analysis student. Passionate about technology, web development and creative solutions.👋
 
-- 🔭 I’m currently working on Operating System Implementation
+- 🔭 I’m currently working on PMS´ Implementation
 - 🌱 I’m currently learning CSS, JavaScript, Html and Python
 - 👯 I’m looking to collaborate on open-source projects, system optimisation, and web development
 - 🤝 I’m open to networking and knowledge sharing with fellow developers
